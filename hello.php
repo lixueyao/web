@@ -1,4 +1,4 @@
 <?php
 echo 'lixueyao';
-echo 'hello word';
+echo 'v1.0.0';
 ?>
